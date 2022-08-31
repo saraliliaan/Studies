@@ -21,9 +21,9 @@ class Brasil(Covid):
 class main():
     bra = Brasil()
     print('Brasil: ')
-    print (bra.posicao)
-    bra.nome
-    bra.casos
-    bra.mortes
+    bra.posicao()
+    bra.nome()
+    bra.casos()
+    bra.mortes()
 
 if __name__ == "__main__": main()
