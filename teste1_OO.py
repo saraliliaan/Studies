@@ -2,7 +2,7 @@
 #    nome = None
 #    
 #    def imprimir_mensagem(self):
-#        print ("Olá, seja bem vindo!")
+#        print (f"Olá {nome}, seja bem vindo!")
 #
 #objeto1 = PrimeiraClasse()
 #objeto1.nome = "Aluno 1"
